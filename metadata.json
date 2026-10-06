@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - AI Public Infrastructure Monitoring",
+  "description": "Real-time AI detection, geospatial mapping, priority dispatch, and offline field synchronization for municipal public works and infrastructure maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
